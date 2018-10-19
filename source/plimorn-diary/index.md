@@ -73,7 +73,7 @@ I guess that puts my guitar plan on hold for now.
 ### Entry 560
 That is actually pretty clever. They used Fireball spell as a base, increased sulfur count ten-fold and reversed right hand movement in third act of casting. This causes significant increase in Beta waves caused by the spell. But unfortunatelly it makes spell much less stable and less controlable. No wonder it is supposed to blow up in their face. Let’s see how can we make it more stable
 
-### Entry 565
+<h3 id="entry-565">Entry 565</h3>
 We’ve just lost main researcher on the project. He went into the mountains, trying to find more energy for his construct side-project and got reduced to ash. Our old group managed to find his prototype and we will keep it for the time beign. It might come handy later.
 
 Pladin project will not slow down its phase, but this might be a good time for me to try to finally convince everyone that we need more stability in this spell.

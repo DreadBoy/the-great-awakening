@@ -6,6 +6,33 @@ body
     flex-direction: column
     align-items: center
 
+header
+    margin-bottom: 50px
+
+    .title
+        margin-top: .2em
+        margin-bottom: .2em
+        font-family: MrJeeves
+        font-weight: 800
+        color: #58180D
+        font-size: 70px
+
+    nav
+        display: flex
+        $color: #58180D
+        div
+            font-size: .529cm
+            border-bottom: 2px solid #c9ad6a
+            margin-top: .2em
+            margin-bottom: .2em
+            font-family: MrJeeves
+            font-weight: 800
+            color: $color
+            margin-right: 1em
+        a, a:link, a:hover, a:active, a:visited
+            text-decoration: none
+            color: $color
+
 .phb
     column-count: 1
     height: auto
@@ -27,3 +54,6 @@ body
         -webkit-column-break-after: auto
         font-family: monospace
         font-size: 1.2em
+
+header, .phb
+    width: 800px
