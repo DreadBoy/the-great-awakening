@@ -6,7 +6,7 @@
     "version": "3.7.1"
   },
   "scripts": {
-    "deploy": "hexo deploy -g",
+    "deploy": "hexo deploy --generate",
     "start": "hexo server"
   },
   "dependencies": {
