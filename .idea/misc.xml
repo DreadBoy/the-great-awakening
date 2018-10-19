@@ -72,4 +72,7 @@
       <textMaps />
     </LinkMapSettings>
   </component>
+  <component name="ProjectResources">
+    <resource url="https://raw.githubusercontent.com/stolksdorf/homebrewery/master/phb.standalone.css" location="$PROJECT_DIR$" />
+  </component>
 </project>

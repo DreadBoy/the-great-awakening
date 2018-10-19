@@ -7,7 +7,8 @@
   },
   "scripts": {
     "deploy": "hexo deploy --generate",
-    "start": "hexo server"
+    "start": "hexo server",
+    "install-cli": "npm install hexo-cli -g"
   },
   "dependencies": {
     "hexo": "^3.7.0",
@@ -19,7 +20,9 @@
     "hexo-render-pug": "^2.0.0",
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^0.3.2",
+    "hexo-renderer-sass": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.3.1"
+    "hexo-server": "^0.3.1",
+    "homebrewery": "git+ssh://git@github.com/stolksdorf/homebrewery.git"
   }
 }
