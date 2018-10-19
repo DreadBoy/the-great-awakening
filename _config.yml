@@ -73,17 +73,20 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
+theme: dnd
 
 theme_config:
-  colorscheme: classic
-  nav:
-  social_links:
-    github: https://github.com/DreadBoy/the-great-awakening
-    mail: mailto:matic.leva@inova.si
-  logo:
-    enabled: false
-  page_width: 70
+  menu:
+
+  # Content
+  excerpt_link: Read More
+  fancybox: true
+
+  # Sidebar
+  sidebar: right
+  widgets:
+  - archives
+  - recent_posts
 
 
 # Deployment
