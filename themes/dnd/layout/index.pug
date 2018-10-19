@@ -4,29 +4,7 @@ block body
     h1 The Great Awakening
     p Welcome traveler from an antique land. Please sit and tell us of what you have seen. The unheard of monsters, who slither and bite. Tell us of the wondrous items and and artifacts you have found, their mysteries yet to be unlocked. Of the vexing vocations and surprising skills you have seen.
 
-    h2 Published pages
-    ul
-        each page in site.pages.data
-            li
-                a(href=page.permalink)=page.title
-
-
-    h2 Character diaries
-    -
-        const grouped = {};
-        for (const post of site.posts.data) {
-        if(!grouped[post.author])
-        grouped[post.author] = [];
-        grouped[post.author].push(post);
-        }
-    each name in Object.keys(grouped)
-        h3=name
-        ul
-            each post in site.posts.data.filter(function (post) { return post.author === name ; })
-                li
-                    a(href=post.permalink)=post.title
-
-
-
+    h2 Plimorn's diary
+    p #[a(href=url_for('plimorn-diary')) Collection of pages and notes] written by great wizard Plimorn Waveharp
 
 
