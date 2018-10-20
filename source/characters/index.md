@@ -47,7 +47,7 @@ Race: *Half-Orc*
 Class: *Bard*
 Status: <span style="color:red">*Deceased*</span>
 
-Eccentric half-olf dwarf that entertained the party time with his bagpipes.
+Eccentric half-olf bard that entertained the party time with his bagpipes.
 
 He was killed in action near [Nukeland](../locations#nukeland) when he accidentally hit everyone in the party using his thunderwave spell. After that Dragon attacked him and successfully killed him.
 
