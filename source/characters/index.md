@@ -60,13 +60,13 @@ Status: <span style="color:green">*Alive*</span>
 
 #### Personality
 
-* has a crude sense of humor.
+* Has a crude sense of humor.
 * Would lay down his life in defense of others, mostly for the people he served with
-* would rather eat his armor than admit when he's wrong.
-* minor alcoholic
+* Would rather eat his armor than admit when he's wrong.
+* Minor alcoholic
 
 #### Backstory
-Speaking trough big biggie's drunk mouth in local inn before he was introduced to the current story:
+Speaking trough big biggie's drunk mouth (so the text doesn't make much sense) in local inn before he was introduced to the current story:
 I was the greatest standard-bearer. Before every battle we, the barbarians grouped up together in local inn, to motivate ourselves.. That one time I think I drank too much, and I can only remember screaming "CHARGEEEE" before the battle. And then I woke up on some kind of island, if I may even call it island. It was like only 20 by 20 feet  square. Luckily I had my axe and one or two palm trees to make myself a silly raft and a bottle of booze with my favorite drink, gin. I let the tides decide my fate as I drank the bottle empty.... I was awoken by funeral ceremony bells, f**k, my first thoughts were that I'm being buried alive. But I was laying on a beach all wet with my broken raft. I must seek help in the city. I hope people will be nice there, and maybe I can find some friends, that I can adventure with.
 
 <h3 id="pipi">Pipi</h3>
