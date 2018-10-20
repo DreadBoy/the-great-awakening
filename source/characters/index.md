@@ -6,7 +6,7 @@ Race: *Human*
 Class: *Paladin*
 Status: <span style="color:tomato">*Unknown*</span>
 
-Lord Dominik was great paladin from the shipbuilder's family. Even though he sometimes drank too much, he was always prepared to help those in need.
+Lord Dominik was a great paladin from the shipbuilder's family. Even though he sometimes drank too much, he was always prepared to help those in need.
 
 He was presumably killed in [Gladiatorland](../locations#gladiatorland) by Githyanki warrior when he refused to hand out the sword that Githyanki demanded.
 
@@ -60,7 +60,7 @@ Status: <span style="color:green">*Alive*</span>
 
 //TODO
 
-<h3 id="bigbiggie">Pipi</h3>
+<h3 id="pipi">Pipi</h3>
 
 Race: *Halfling*
 Class: *Cook*
