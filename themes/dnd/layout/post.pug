@@ -1,10 +1,10 @@
 extends base
 
 block body
-    h1=page.author ? `${page.author}'s diary` : 'Lost pages'
-    if(page.title)
-        h2=page.title
-    if(page.date)
-        p=date(page.date)
-    hr
-    !=page.content
+  h1=page.author ? `${page.author}'s diary` : 'Lost pages'
+  if(page.title)
+    h2=page.title
+  if(page.date)
+    p=date(page.date)
+  hr
+  !=page.content
