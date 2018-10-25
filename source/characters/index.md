@@ -1,25 +1,5 @@
 ## The Party
 
-<h3 id="dominik">Lord Dominik</h3>
-
-Race: *Human*
-Class: *Paladin*
-Status: <span style="color:tomato">*Unknown*</span>
-
-Lord Dominik was a great paladin from the shipbuilder's family. Even though he sometimes drank too much, he was always prepared to help those in need.
-
-He was presumably killed in [Gladiatorland](../locations#gladiatorland) by Githyanki warrior when he refused to hand out the sword that Githyanki demanded.
-
-However he did not die that day or he was resurrected somehow as he was later (story-wise, earlier time-wise) spotted on Pladin, helping fight against Githyanki there by destroying their anti-magic shield. Hi was hit by an explosion after that and not seen since.
-
-<h3 id="konzu">Konzu</h3>
-
-Race: *Human*
-Class: *Mystic*
-Status: <span style="color:green">*Alive*</span>
-
-//TODO
-
 <h3 id="plimorn">Plimorn Waveharp</h3>
 
 Race: *Human*
@@ -31,26 +11,6 @@ Wizard that, when not adventuring, spends most of his time in his lab, trying to
 During research he discovered that some branches of magic (such as healing) are simply not available to the wizards. So in his lust for more knowledge and magic power he has decided to also become part-time Bard to get access to more magic. Unlike most "real" bards, he could not care less about the music, he just uses it as a tool to execute spells that Wizard could not.
 
 As any other researcher, he was writing down his findings and ramblings. Parts of his diary were later found and are being [published piece-by-piece](../plimorn-diary).
-
-<h3 id="rogar">Rogar Ironshield</h3>
-
-Race: *Dwarf*
-Class: *Druid*
-Status: <span style="color:green">*Presumably alive*</span>
-
-//TODO
-
-
-<h3 id="kinimod">Kinimod Drol</h3>
-
-Race: *Half-Orc*
-Class: *Bard*
-Status: <span style="color:red">*Deceased*</span>
-
-Eccentric half-olf bard that entertained the party time with his bagpipes.
-
-He was killed in action near [Nukeland](../locations#nukeland) when he accidentally hit everyone in the party using his thunderwave spell. After that Dragon attacked him and successfully killed him.
-
 
 <h3 id="bigbiggie">Big Biggie</h3>
 
@@ -69,6 +29,22 @@ Status: <span style="color:green">*Alive*</span>
 Speaking trough big biggie's drunk mouth (so the text doesn't make much sense) in local inn before he was introduced to the current story:
 I was the greatest standard-bearer. Before every battle we, the barbarians grouped up together in local inn, to motivate ourselves.. That one time I think I drank too much, and I can only remember screaming "CHARGEEEE" before the battle. And then I woke up on some kind of island, if I may even call it island. It was like only 20 by 20 feet  square. Luckily I had my axe and one or two palm trees to make myself a silly raft and a bottle of booze with my favorite drink, gin. I let the tides decide my fate as I drank the bottle empty.... I was awoken by funeral ceremony bells, f**k, my first thoughts were that I'm being buried alive. But I was laying on a beach all wet with my broken raft. I must seek help in the city. I hope people will be nice there, and maybe I can find some friends, that I can adventure with.
 
+<h3 id="konzu">Konzu</h3>
+
+Race: *Human*
+Class: *Mystic*
+Status: <span style="color:green">*Alive*</span>
+
+//TODO
+
+<h3 id="rogar">Rogar Ironshield</h3>
+
+Race: *Dwarf*
+Class: *Druid*
+Status: <span style="color:green">*Presumably alive*</span>
+
+//TODO
+
 <h3 id="pipi">Pipi</h3>
 
 Race: *Halfling*
@@ -76,6 +52,28 @@ Class: *Cook*
 Status: <span style="color:green">*Alive*</span>
 
 //TODO
+
+<h3 id="dominik">Lord Dominik</h3>
+
+Race: *Human*
+Class: *Paladin*
+Status: <span style="color:tomato">*Unknown*</span>
+
+Lord Dominik was a great paladin from the shipbuilder's family. Even though he sometimes drank too much, he was always prepared to help those in need.
+
+He was presumably killed in [Gladiatorland](../locations#gladiatorland) by Githyanki warrior when he refused to hand out the sword that Githyanki demanded.
+
+However he did not die that day or he was resurrected somehow as he was later (story-wise, earlier time-wise) spotted on Pladin, helping fight against Githyanki there by destroying their anti-magic shield. Hi was hit by an explosion after that and not seen since.
+
+<h3 id="kinimod">Kinimod Drol</h3>
+
+Race: *Half-Orc*
+Class: *Bard*
+Status: <span style="color:red">*Deceased*</span>
+
+Eccentric half-olf bard that entertained the party time with his bagpipes.
+
+He was killed in action near [Nukeland](../locations#nukeland) when he accidentally hit everyone in the party using his thunderwave spell. After that Dragon attacked him and successfully killed him.
 
 ### [Maja's Character]
 Race: *Drow*
