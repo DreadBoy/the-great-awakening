@@ -19,19 +19,20 @@ header
 
     nav
         display: flex
-        $color: #58180D
-        div
-            font-size: .529cm
-            border-bottom: 2px solid #c9ad6a
-            margin-top: .2em
-            margin-bottom: .2em
-            font-family: MrJeeves
-            font-weight: 800
-            color: $color
-            margin-right: 1em
-        a, a:link, a:hover, a:active, a:visited
-            text-decoration: none
-            color: $color
+
+.h3
+    $color: #58180D
+    font-size: .529cm
+    border-bottom: 2px solid #c9ad6a
+    margin-top: .2em
+    margin-bottom: .2em
+    font-family: MrJeeves
+    font-weight: 800
+    color: $color
+    margin-right: 1em
+    a, a:link, a:hover, a:active, a:visited
+        text-decoration: none
+        color: $color
 
 .phb
     column-count: 1
@@ -55,5 +56,13 @@ header
         font-family: monospace
         font-size: 1.2em
 
+    h1 + p::first-letter
+        font-size: 5em
+
 header, .phb
     width: 800px
+
+.img-center
+    display: block
+    width: 80%
+    margin: 0 auto

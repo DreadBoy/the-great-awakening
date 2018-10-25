@@ -1,22 +1,7 @@
 html
     head
         meta(charset="utf-8")
-        -
-            let title = page.title;
-
-            if (is_archive()) {
-                title = 'Archives';
-
-                if (is_month())
-                title += ': ' + page.year + '/' + page.month;
-                else if (is_year())
-                title += ': ' + page.year;
-            }
-            else if (is_category())
-                title = 'Category: ' + page.category;
-            else if (is_tag())
-                title = 'Tag: ' + page.tag;
-        title=`${title ? `${title} | ` : ''}${config.title}`
+        title=`${page.title ? `${page.title} | ` : ''}${config.title}`
         meta(name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1")
         link(href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css")
         !=css('css/index')
@@ -24,19 +9,19 @@ html
         header
             div.title The Great Awakening
             nav
-                div
+                div.h3
                     a(href=url_for('/')) Home
-                div
+                div.h3
                     a(href=url_for('plimorn-diary')) Plimorn's diary
-                div
+                div.h3
                     a(href=url_for('locations')) Locations
-                div
+                div.h3
                     a(href=url_for('plimorn-diary')) Events
-                div
+                div.h3
                     a(href=url_for('plimorn-diary')) Items
-                div
+                div.h3
                     a(href=url_for('characters')) Characters
-                div
+                div.h3
                     a(href=url_for('help')) Help
 
         div.phb

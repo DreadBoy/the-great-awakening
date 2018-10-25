@@ -1,3 +1,8 @@
+---
+title: Locations
+layout: locations
+---
+
 ## Pre-Project Piran locations (story-wise)
 
 <h3 id="simbaland">Simbaland</h3>
