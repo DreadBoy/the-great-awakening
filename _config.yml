@@ -43,16 +43,15 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
-  per_page: 10
-  order_by: -date
-  
+  path: 'index'
+  per_page: 0
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -74,20 +73,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: dnd
-
-theme_config:
-  menu:
-
-  # Content
-  excerpt_link: Read More
-  fancybox: true
-
-  # Sidebar
-  sidebar: right
-  widgets:
-  - archives
-  - recent_posts
-
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
