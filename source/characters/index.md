@@ -35,7 +35,19 @@ Race: *Human*
 Class: *Mystic*
 Status: <span style="color:green">*Alive*</span>
 
-//TODO
+#### Personality
+
+* Likes women
+* Like... really likes women
+* More of a boob man
+* Just wants to see the world
+* Does not care about amterial possesions
+
+#### Backstory
+
+Konzu was never quite sure if he was abandoned or if his parents died. Thankfully master Roshi found him and raised him up into what he is today. He instilled in Konzu everything he could, his knowledge of history, magic and the ways of the mystic. Of course Konzu also took after master Roshis love for women.
+
+After burying Roshi, he decided he wants to see the world and started travelling.
 
 <h3 id="rogar">Rogar Ironshield</h3>
 
