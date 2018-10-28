@@ -87,15 +87,15 @@ Eccentric half-olf bard that entertained the party time with his bagpipes.
 
 He was killed in action near [Nukeland](../locations#nukeland) when he accidentally hit everyone in the party using his thunderwave spell. After that Dragon attacked him and successfully killed him.
 
-### [Maja's Character]
+### Lura Araris
 Race: *Drow*
 Class: *Sorcerer*
 Status: <span style="color:green">*Alive*</span>
 
 //TODO
 
-### [Mitja's Character]
-Race: *?*
+### Hondolas
+Race: *Half-Elf*
 Class: *Rogue*
 Status: <span style="color:green">*Alive*</span>
 
