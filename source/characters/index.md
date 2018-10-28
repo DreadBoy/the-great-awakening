@@ -41,7 +41,7 @@ Status: <span style="color:green">*Alive*</span>
 * Like... really likes women
 * More of a boob man
 * Just wants to see the world
-* Does not care about material possesions
+* Does not care about material possessions
 
 #### Backstory
 
