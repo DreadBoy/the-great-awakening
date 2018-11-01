@@ -1,6 +1,5 @@
 ---
 title: Locations
-layout: locations
 ---
 
 ## Pre-Project Piran locations (story-wise)

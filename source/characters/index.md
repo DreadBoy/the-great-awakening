@@ -73,7 +73,7 @@ Status: <span style="color:tomato">*Unknown*</span>
 
 Lord Dominik was a great paladin from the shipbuilder's family. Even though he sometimes drank too much, he was always prepared to help those in need.
 
-He was presumably killed in [Gladiatorland](../locations#gladiatorland) by Githyanki warrior when he refused to hand out the sword that Githyanki demanded.
+He was presumably killed in [Gladiatorland](../old_locations#gladiatorland) by Githyanki warrior when he refused to hand out the sword that Githyanki demanded.
 
 However he did not die that day or he was resurrected somehow as he was later (story-wise, earlier time-wise) spotted on Pladin, helping fight against Githyanki there by destroying their anti-magic shield. Hi was hit by an explosion after that and not seen since.
 
@@ -85,7 +85,7 @@ Status: <span style="color:red">*Deceased*</span>
 
 Eccentric half-olf bard that entertained the party time with his bagpipes.
 
-He was killed in action near [Nukeland](../locations#nukeland) when he accidentally hit everyone in the party using his thunderwave spell. After that Dragon attacked him and successfully killed him.
+He was killed in action near [Nukeland](../old_locations#nukeland) when he accidentally hit everyone in the party using his thunderwave spell. After that Dragon attacked him and successfully killed him.
 
 ### Lura Araris
 Race: *Drow*
@@ -112,4 +112,4 @@ Status: <span style="color:green">*Alive*</span>
 
 * Small creatures that can burrow inside person
 * With proper care they can significantly increase magical power of the host
-* They need to be fed with magical water. Only known location of that water is in [Underwater land](../locations#underwaterland) 
+* They need to be fed with magical water. Only known location of that water is in [Underwater land](../old_locations#underwaterland) 

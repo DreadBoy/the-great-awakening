@@ -5,6 +5,10 @@ categories:
 order: 1
 ---
 
+Sleepy town at southern end of Bay of Kings, most commonly used as shipping port of nearby Four Finger Crossing. 
+
+<!-- more -->
+
 # Oldtown
 
 Sleepy town at southern end of Bay of Kings, most commonly used as shipping port of nearby Four Finger Crossing. 
@@ -31,11 +35,8 @@ The innkeeper is a stout female halfling named Philia Beney. She knows a few sim
 * Roasted Mutton and Soft Cheese, Tankard of Cider (11 cp)
 * Hazelnut Bread and Bitter Cheese, Mug of Stout (3 cp)
 
-#### Quest board
-Requires further examination.
-
 ### The Ruby Hammer
-Modest wooden building, with a reinforced wooden door. Accomodations consist of several wooden cots in the cellar and straw mats near the hearth.
+Modest wooden building, with a reinforced wooden door. Accommodations consist of several wooden cots in the cellar and straw mats near the hearth.
 
 #### Location	
 On Grove Side, in an adventurers district of noisy inns and wandering bards. The street outside is crowded with a procession of beggars.
@@ -51,5 +52,21 @@ The innkeeper is a flamboyant male human named Wine. He is a retired thief, and 
 * Boiled Duck and Curd Cheese, Tankard of Perry (9 cp)
 * Wheat Porridge, Mug of Mead (3 cp)
 
-#### Quest board
-Requires further examination.
+## Quest board
+> A band of slave-trading ogres lurks in the ruins of Kada's Delve.
+> Reward: **1000g**
+> \- Bali, Guild of Green Merchants
+
+<br>
+
+> A vast swarm of spiders has been gathering in the Bergor's Vale.
+> Reward: **500g**
+> \- Rithuia, local druid
+
+<br>
+
+> A gang of thieves and murderers lurks in the sewers and tunnels beneath the town.
+> Reward: **1500g**
+> \- Vyncent, head of town watch
+
+

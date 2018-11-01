@@ -1,0 +1,13 @@
+extends base
+
+block body
+    h2 Tookania
+    p Below is a map of land known to our adventurers, complete with list of towns and locations they visited. Clicking on location's name will bring you to detailed description of it.
+    img.img-center(src='Tookania.png' alt='Map of Tookania' usemap="#tookania")
+    map(name="tookania")
+        area(shape='circle' coords="729,643,26" href="/location/oldtown" alt="Oldtown")
+    - const posts = site.categories.findOne({name: 'location'}).posts.sort('order', 1).toArray()
+    each post in posts
+        h3.h3
+            a(href=url_for(post.path))=post.title
+        !=post.excerpt
