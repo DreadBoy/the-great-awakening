@@ -29,12 +29,6 @@ In a market ward, surrounded by crowded avenues and colorful marketplaces. The s
 #### Innkeeper	
 The innkeeper is a stout female halfling named Philia Beney. She knows a few simple spells for housekeeping.
 
-#### Menu	
-* Boiled Eggs and Barley Bread, Tankard of Bitter (10 cp)
-* Boiled Eggs and Turnip, Tankard of Ale (11 cp)
-* Roasted Mutton and Soft Cheese, Tankard of Cider (11 cp)
-* Hazelnut Bread and Bitter Cheese, Mug of Stout (3 cp)
-
 ### The Ruby Hammer
 Modest wooden building, with a reinforced wooden door. Accommodations consist of several wooden cots in the cellar and straw mats near the hearth.
 
@@ -44,14 +38,6 @@ On Grove Side, in an adventurers district of noisy inns and wandering bards. The
 #### Innkeeper	
 The innkeeper is a flamboyant male human named Wine. He is a retired thief, and is rumored to have a hidden cache of stolen treasure.
 
-#### Menu	
-* Rye Bread and Bitter Cheese, Mug of Mead (2 cp)
-* Pottage, Mug of Mead (3 cp)
-* Stewed Leek, Mug of Beer (3 cp)
-* Dried Goose and Dried Mushrooms, Tankard of Beer (9 cp)
-* Boiled Duck and Curd Cheese, Tankard of Perry (9 cp)
-* Wheat Porridge, Mug of Mead (3 cp)
-
 ## Quest board
 > A band of slave-trading ogres lurks in the ruins of Kada's Delve.
 > Reward: **1000g**
@@ -59,14 +45,18 @@ The innkeeper is a flamboyant male human named Wine. He is a retired thief, and 
 
 <br>
 
-> A vast swarm of spiders has been gathering in the Bergor's Vale.
-> Reward: **500g**
-> \- Rithuia, local druid
+<blockquote class="done"><p>
+A vast swarm of spiders has been gathering in the Bergor's Vale.
+Reward: **500g**
+- Rithuia, local druid
+</p></blockquote>
 
 <br>
 
-> A gang of thieves and murderers lurks in the sewers and tunnels beneath the town.
-> Reward: **1500g**
-> \- Vyncent, head of town watch
+<blockquote class="done"><p>
+A gang of thieves and murderers lurks in the sewers and tunnels beneath the town.
+Reward: **1500g**
+- Vyncent, head of town watch
+</p></blockquote>
 
 
