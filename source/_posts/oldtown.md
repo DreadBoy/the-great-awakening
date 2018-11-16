@@ -16,7 +16,7 @@ Sleepy town at southern end of Bay of Kings, most commonly used as shipping port
 **Size:** Small town  
 **Connects to:** Redriver Inn, Four Finger Crossing
 
-<img class="img-center" src="Oldtown.svg" alt="map of Oldtown">
+<img class="img-center" src="oldtown.svg" alt="map of Oldtown">
 
 ## Inns
 
