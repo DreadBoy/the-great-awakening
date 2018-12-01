@@ -1,3 +1,4 @@
+
 title: Plimorn's diary
 author: Plimon
 ---
@@ -126,3 +127,29 @@ cHt%dJ6qjSEPM5AF all wr scbB&Pojnp!A&afCQNqA shouldn’t have ha MLL2J8D@@#GO*M 
 dM86a0&0&Po7S$ZIZ2#!I3%YxZofVf set up bB0J1^4azK#cofV^admt$18&3m9Zuw. hindsight, I should have predicted that. We should have had some mitigation against it. Oh well, let’s not dwell on the past mistakes.
 
 So all things considered, it looks like Pladin time cave creates deterministic time travel where we cannot change the past as exact same thing has happened that before. That could create some interesting possibilities. But first I need to figure out how to get out of here. Everything is still white and I can’t hear anything other than ringing in my ears.
+
+### Entry PP-12
+
+It looks like getting back home is getting less and less probable. Only one that has heard of Pladin was that ship captain and even she had no idea where it was. For all I know, with all time travel shenanigans surrounding Pladin, we could be years in the future or in the past. Hell, Pladin could be an old myth from the distant past. 
+
+So for now I am stuck here. That means that I need to settle down again somewhere here and set up a new lab. Sigh, that is going to require a lot of gold, way more than I brought with me. I need to figure out something.
+
+### Entry PP-14
+
+I've met Stephen today. He seems like fine chap. A bit racist maybe, but he is another spellcaster! A breath of fresh air as opposed to barbaric fighters I'm surrounded with usually.
+
+Anyway, we were at the at the quest board today and it looks like we could solve several issues this town has for some gold. So current plan:
+
+1. We beat the bandits in the sewers that apparently wreak havors in the town
+2. We beat giant spiders north of the town that apparently harass travelers going through
+3. We break down slave trade ring mantained by Ogres in Bergor's Vale
+
+Whole thing brings in quite a lot of gold which should put me closer at establishing a lab somewhere here.
+
+### Entry PP-15
+
+Stephen came out with scary idea: After we beat bandits in the sewers, we could sell them to ogres as slaves (before destroying the ogres themselves) for some extra gold. What is even scarier is that both Konzu and Big Biggie are really enthusiastic about that plan. Do I even know those two? I thought they have higher morale standards.
+
+But is that move even that bad? Slavery is obviously very bad, regardless of who is the slave, but we would be dismantling the slave ring after that. And those bandits are bad people anyway, right? 
+
+I'm not too on board with that plan, it does not sound good. But it might bring more of that gold that I desperately need, so I will do this just once.
