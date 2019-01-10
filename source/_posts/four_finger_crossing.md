@@ -15,6 +15,7 @@ Big trading outpost at crossing of 2 roads. You can barely call it home and you 
 
 **Size:** Big sprawling mess  
 **Connects to:** Oldtown, Redmoore, Silverpine Port and Annuvien
+**Has teleportation circle:** YES
 
 <img class="img-center" src="four_finger_crossing.svg" alt="map of Four Finger Crossing">
 
@@ -41,6 +42,38 @@ The inn is a single storey half-timbered building, with a smooth stone floor. Ac
 
 #### Innkeeper	
 The innkeeper is an instinctive male dwarf named Scandli Horrison.
+
+## Shops
+
+<img class="img-center" src="ffc_merchants.png" alt="map of Four Finger Crossing shops"/>
+
+### Armor Shop
+Shopkeeper is old male human named Here
+
+### Weapons Shop
+Shopkeeper is old male elf named Estor
+
+### Mountaineering Shop
+Shopkeeper is a dwarf named Dinde
+
+### Potions Shop
+Shopkeeper is a generous male elf named Medre
+
+### Tools Shop
+Shopkeeper is a short female halfling named Phone
+
+### Magic Shop
+Shopkeeper is an overweight male human named Wulfa
+
+### Scrolls Shop
+Shopkeeper is a heavyset male dwarf named Dwoinarv
+
+### Animals Shop
+Shopkeeper is an aesthetic female human named Kater
+
+### Adventure Shop
+Shopkeeper is a tall female elf named Finda
+
 
 ## Quest board
 
