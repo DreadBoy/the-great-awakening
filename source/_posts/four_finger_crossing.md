@@ -19,6 +19,10 @@ Big trading outpost at crossing of 2 roads. You can barely call it home and you 
 
 <img class="img-center" src="four_finger_crossing.svg" alt="map of Four Finger Crossing">
 
+## Temple location
+
+In the middle of the city, right below "`a`" letter of the center `Gate` label
+
 ## Inns
 
 ### The Blue Flask
