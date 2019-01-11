@@ -2,7 +2,7 @@
 title: Session Notes
 ---
 
-## 11. 11. 2018
+## 11. 1. 2019
 
 (Session with mountain climbing and exploring of Deepwood mountain temple)
 
