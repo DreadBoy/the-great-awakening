@@ -2,6 +2,9 @@
 title: Plimorn's diary
 author: Plimon
 ---
+
+NOTE: This is archived content and is not reflecting latest events in the world
+
 # Plimorn's diary
 
 ### July 6, 43 BCR (In the lab)
