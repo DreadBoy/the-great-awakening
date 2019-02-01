@@ -12,4 +12,4 @@ order: 5
 **Size:** Medium town  
 **Has teleportation circle:** YES
 
-<img class="img-center resizable" src="redmoore.png" alt="map of Oldtown">
+<img class="img-center resizable" src="redmoore.png" alt="map of Redmoore">
