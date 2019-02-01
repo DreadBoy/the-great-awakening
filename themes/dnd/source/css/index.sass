@@ -78,16 +78,31 @@ header, .phb
     &.resizable
         cursor: zoom-in
 
-        &.fullscreen
-            position: fixed
-            width: auto
-            max-width: 90vw
-            max-height: 90vh
-            top: 50vh
-            left: 50vw
-            transform: translate(-50%, -50%)
-            z-index: 1
-            cursor: zoom-out
+.image-preview
+    position: fixed
+    top: 0
+    left: 0
+    width: 100vw
+    height: 100vh
+    cursor: zoom-out
+    z-index: 20
+    background: rgba(black, 0.5)
+
+    display: flex
+    align-items: center
+    justify-content: center
+
+    transform: scale(0)
+
+    img
+        max-width: 90%
+        max-height: 90%
+        width: auto
+        box-shadow: 0 0 100px 10px rgba(0,0,0,0.75)
+
+
+    &.opened
+        transform: scale(1)
 
 blockquote.done
     position: relative
