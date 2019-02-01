@@ -6,7 +6,9 @@
     "version": "3.7.1"
   },
   "scripts": {
-    "deploy": "hexo deploy --generate && rimraf public",
+    "build": "rimraf public && hexo generate",
+    "deploy": "hexo deploy",
+    "build-deploy": "npm run build && npm run deploy && rimraf public",
     "start": "hexo server",
     "install-cli": "npm install hexo-cli -g"
   },
@@ -22,7 +24,9 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-sass": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
+    "hexo-renderer-ts": "^1.2.5",
     "hexo-server": "^0.3.1",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "typescript": "^3.3.1"
   }
 }
