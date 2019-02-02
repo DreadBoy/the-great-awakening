@@ -2,6 +2,24 @@
 title: Session Notes
 ---
 
+*Note: Since sessions are in Slovenian, some notes might be in Slovenian*
+
+## 1. 2. 2019
+
+(Session after Ivan's fight when heroes find Ivan's secret room and destroy Xenophilious stone)
+
+* [Pepi's letter](Pepi's letter.txt)
+* Redmoore had flyers asking for more info on these people or people that know them:
+    * Human named Plimorn
+    * Human named Konzu
+    * Half-Orc named Kinimod
+    * Dwarf named Rogar
+* Flyers ask for info to be delivered to the red house on the north-east road out of the city
+* Flyers promise good reward for the info
+* Inn at the north east part of the city is full of evil people (but bartender is good)
+* Town Guards received an order from higher-up to not do anything about the flyers
+* Popi is from Redmoore, nobody has heard of him and he orders around his subordinates with iron fist.
+
 ## 11. 1. 2019
 
 (Session with mountain climbing and exploring of Deepwood mountain temple)
