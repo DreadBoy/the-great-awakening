@@ -29,3 +29,7 @@ List of all items available in shops and markets can be found in [spreadsheet](h
 * Bread, loaf	*2 cp*
 * Cheese, hunk	*1 sp*
 * Banquet (per person)	*10 gp*
+
+### Miscelaneous
+
+* [Winter shop items](WinterShop.pdf)
