@@ -9,7 +9,7 @@ List of non-standard content in the campaign and link to their properties:
 * [Falcon Warhammer](Falcon warhammer.pdf)
 * [The Trickster](The Trickster.pdf)
 * [Sand in the pocket](Sand in the pocket.png)
-    * Amendment: After failing to throw the sand into creature's eyes, wind caused by creature evading your sand blows the sand back into your eyes. Make DC 10 CON check or suffer the sand's blindness yourself. 
+    * Amendment: After failing to throw the sand into creature's eyes, wind caused by creature evading your sand blows the sand back into your eyes. Make DC 9 CON check or suffer the sand's blindness yourself. 
 
 ## Pets
 
