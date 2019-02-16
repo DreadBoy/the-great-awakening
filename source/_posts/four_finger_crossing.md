@@ -11,7 +11,9 @@ Big trading outpost at crossing of 2 roads. You can barely call it home and you 
 
 # Four Finger Crossing
 
-Big trading outpost at crossing of 2 roads. You can barely call it home and you certainly can't call it town but regardless of what you wish to call it you can buy anything in its narrow alleyways and open markets. Really, anything; food, weapons, magic items, guides and more... shady... things. But be careful where you step and when you choose to be there, Four Finger Crossing has no law.
+Centuries ago, when land of Tookania was divided into city municipalities, measuring error caused small chunk of land above Deepwood forest to not be assigned to any municipality. Nobody cared about this no-man's land, until crafty merchant figured out that having no official jurisdiction meant that he did not have to pay any sales tax here. Soon other merchants followed him and today this is by far the largest shopping center in all Tookania, with its markets unregulated and untaxed.
+
+Even though at first this settlement may appear to be a town due to all city services being present, such as post office, a temple etc., all those services are not connected to the government in any way and instead run privately as a for-profit businesses. Even though there is no law there, most thieves and other criminals know that these shops are beneficial on them (for example, they can sell shady items or fence items at some merchants) and usually stay off, while richer shops can also afford to have their own personal private guards.
 
 **Size:** Big sprawling mess  
 **Connects to:** Oldtown, Redmoore, Silverpine Port and Annuvien
