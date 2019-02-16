@@ -5,13 +5,19 @@ categories:
 order: 1
 ---
 
-Sleepy town at southern end of Bay of Kings, most commonly used as shipping port of nearby Four Finger Crossing. 
+Sleepy town at southern end of Bay of Kings. 
 
 <!-- more -->
 
 # Oldtown
 
-Sleepy town at southern end of Bay of Kings, most commonly used as shipping port of nearby Four Finger Crossing. 
+Sleepy town at southern end of Bay of Kings. 
+
+As closest port to the big shopping center of Four Finger Crossing, this small town used to be very lively town, with hundreds of ships and merchant carts going in an out in a day. It was said that even the most incompetent people could find a job at the docks, helping to load and unload ships that came from near and far with valuable cargo.
+
+Town prospered until about a decade ago, when beloved mayor of Oldtown suddenly died of a dangerous disease. His successor, mayor Duckhead, got greedy and imposed ridiculously high docking fees for ships. Over time, more and more captains figured out that it was more profitable to go to the Orrin town in the West with cheaper docking fees and then transfer goods by longer land route to Four Finger Crossing, than docking at Oldtown. Because of that, town has slowly calmed down over time and today is just a very sleepy town with almost no foreign presence. Today, docks are mostly filled with local fishing ships. New mayor's selfishness also severed most diplomatic ties to all other towns in the region.
+
+North of the town lies big fortress of Ravenhold. In the old days of the war, this mighty structure was solely responsible for destruction of majority of the enemy's fleet. Today it just stands there, seemingly unused, its gates closed. Surprisingly enough, fortress does not fall under jurisdiction of Old Town, and not even under the jurisdiction of inner/outer defence departments. It is said that fortress belongs directly to the king himself (and his inner circles). Conspiracy theories say that king uses it as a secret laboratory for creating weapons of mass destructions. 
 
 **Size:** Small town  
 **Connects to:** Redriver Inn, Four Finger Crossing
