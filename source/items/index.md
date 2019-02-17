@@ -18,7 +18,7 @@ List of non-standard content in the campaign and link to their properties:
 
 ## Mechanics
 
-* [Climbing](Climbing.pdf)
+* [Climbing](climbing.html)
 * [Rowing](Rowing.pdf)
 * [Miscellaneous](miscelaneous_rules.html)
 
