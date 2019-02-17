@@ -74,7 +74,7 @@ header, .phb
     display: block
     width: 80%
     margin: 0 auto
-    
+
     &.resizable
         cursor: zoom-in
 
@@ -94,15 +94,27 @@ header, .phb
 
     transform: scale(0)
 
-    img
-        max-width: 90%
-        max-height: 90%
-        width: auto
+    .wrapper
+        width: 90%
+        height: 90%
+        overflow: hidden
         box-shadow: 0 0 100px 10px rgba(0,0,0,0.75)
+        position: relative
+
+    img
+        position: absolute
+        top: 0px
+        left: 0px
 
 
     &.opened
         transform: scale(1)
+
+body.no-scroll
+    overflow: hidden
+
+body::-webkit-scrollbar
+    display: none
 
 blockquote.done
     position: relative

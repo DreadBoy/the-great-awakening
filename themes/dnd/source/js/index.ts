@@ -1,3 +1,5 @@
+declare const $: any;
+
 class Awakening {
 
     private readonly overlay: HTMLElement;
@@ -5,7 +7,6 @@ class Awakening {
     constructor() {
         this.overlay = document.createElement('div');
         this.overlay.classList.add('image-preview');
-        this.overlay.setAttribute('image-preview', '');
         document.body.append(this.overlay);
     }
 
@@ -13,31 +14,27 @@ class Awakening {
         if (this.overlay.classList.contains('opened')) {
             this.closeImage();
         } else {
-            this.overlay.innerHTML = `<img src="${src}" alt="${alt}" image-preview>`;
+            this.overlay.innerHTML = `<div class="wrapper"><img src="${src}" alt="${alt}"></div>`;
             this.overlay.classList.add('opened');
+            document.body.classList.add('no-scroll');
         }
     }
 
     public closeImage() {
         this.overlay.classList.remove('opened');
+        document.body.classList.remove('no-scroll');
     }
 
 }
 
-
 declare const awakening: Awakening;
 (window as any).awakening = new Awakening();
 
-document.addEventListener('click', (event) => {
-    const target = (event.target as HTMLElement);
+$(document).on('click', '.img-center.resizable', (event: MouseEvent) => {
+    const image = (event.target as HTMLImageElement);
+    awakening.toggleImage(image.src, image.alt);
+});
 
-    const hasClass = (classname: string, t = target) => t.classList.contains(classname);
-    const hasAttribute = (attribute: string, t = target) => t.hasAttribute(attribute);
-
-    if (hasClass('img-center') && hasClass('resizable')) {
-        const image = (event.target as HTMLImageElement);
-        awakening.toggleImage(image.src, image.alt);
-    }
-    if ((hasAttribute('image-preview')))
-        awakening.toggleImage();
+$(document).on('click', '.image-preview', () => {
+    awakening.toggleImage();
 });
