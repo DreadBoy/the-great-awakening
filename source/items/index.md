@@ -13,7 +13,7 @@ List of non-standard content in the campaign and link to their properties:
 
 ## Pets
 
-* [Gliding Squirrel](Gliding Squirrel.pdf)
+* [Gliding Squirrel](gliding_squirrel.html)
 * [Jenivere](jenivere.html)
 
 ## Mechanics
