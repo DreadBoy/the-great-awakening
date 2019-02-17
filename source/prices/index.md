@@ -30,6 +30,12 @@ List of all items available in shops and markets can be found in [spreadsheet](h
 * Cheese, hunk	*1 sp*
 * Banquet (per person)	*10 gp*
 
-### Miscelaneous
+### Warm Clothes
 
-* [Winter shop items](WinterShop.pdf)
+Higher tier clothes will provide better protection to the wearer
+
+|             | Tier I | Tier II | Tier III |
+|-------------|--------|---------|----------|
+| Hat         | 1 gp   | 4 gp    | 10 gp    |
+| Gloves      | 1 gp   | 4 gp    | 10 gp    |
+| Winter Coat | 5 gp   | 10 gp   | 20 gp    |
