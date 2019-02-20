@@ -39,3 +39,15 @@ Higher tier clothes will provide better protection to the wearer
 | Hat         | 1 gp   | 4 gp    | 10 gp    |
 | Gloves      | 1 gp   | 4 gp    | 10 gp    |
 | Winter Coat | 5 gp   | 10 gp   | 20 gp    |
+
+### Custom Potions
+
+#### Healing
+
+Drinking 10mL from the vial heals player for 1d4 + 1 HP. In single action you can drink any amount of liquid from the vial (anywhere from 10mL to whole vial, in 10mL increments).
+
+* 20mL vial - 50gp
+* 40mL vial - 100gp
+* 60ml vial - 200gp
+* 80mL vial - 300gp
+* 100mL vial - 400gp
