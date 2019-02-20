@@ -44,7 +44,7 @@ Higher tier clothes will provide better protection to the wearer
 
 #### Healing
 
-Drinking 10mL from the vial heals player for 1d4 + 1 HP. In single action you can drink any amount of liquid from the vial (anywhere from 10mL to whole vial, in 10mL increments).
+Drinking 10mL from the vial heals player for 1d4 + 1 HP. In single action you can drink any amount of liquid from the vial (anywhere from 10mL to whole vial, in 10mL increments). Passing potion to the other player expends bonus action on your part and reaction on other player's part.
 
 * 20mL vial - 50gp
 * 40mL vial - 100gp
