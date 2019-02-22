@@ -4,6 +4,19 @@ title: Session Notes
 
 *Note: Since sessions are in Slovenian, some notes might be in Slovenian*
 
+## 22. 2. 2019
+
+(Session on radioactive island)
+
+* Images on the wall
+  * Narisana črna kača, potem puščica proti človeški glavi od spredaj, ki ima oči črno pobarvane, poleg pa je votel prerez človeške glave in na sredini glave narisane črne kače
+  * En kup črnih kač na levi strani, iz vseh njih gre puščica, ki se nato združi v eno veliko puščico. Kaže na veliko rjavo pošast (najbolj spominja na blob monster)
+  * Rjava pošast narisana, poleg je narisan sword prečrtan, puščica prečrtana, hamer prečrtan.
+  * Rjava pošast narisana, poleg so narisani valovi in zraven zelena kljukica, potem pa je narisana rumena oblika (izgleda kot otok) in rdeči X zraven
+  * Rjava pošast narisana, iz nje gredo lovke, vsaka lovka drži polovico ladje
+  * Črna kača z belo piko (kao oka) + [This image](poison.png) = črna kača z belim X namesto oke
+
+
 ## 1. 2. 2019
 
 (Session after Ivan's fight when heroes find Ivan's secret room and destroy Xenophilious stone)
