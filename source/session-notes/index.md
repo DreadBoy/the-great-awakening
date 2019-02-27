@@ -4,6 +4,7 @@ title: Session Notes
 
 *Note: Since sessions are in Slovenian, some notes might be in Slovenian*
 
+
 ## 22. 2. 2019
 
 (Session on radioactive island)
