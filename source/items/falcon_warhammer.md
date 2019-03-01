@@ -11,7 +11,7 @@ ___
 ### Shield
 Hammer can produce translucent rectangular 15ft x 8ft barrier with the center on the hammer's head. Barrier can only be deployed in 45 degree increments on the combat grid.
 
-When shield is deployed, nobody on the "other side" of the shield cannot target creatures on "your side" of the shield. Instead they can only target the shield itself, which has AC of 11. Player holding the hammer also cannot perform any action, bonus action or reaction, except lowering the shield. Player's movement speed is also halved.
+When shield is deployed, nobody on the "other side" of the shield cannot target creatures on "your side" of the shield. Instead they can only target the shield itself, which has AC of 11. Player holding the hammer also cannot perform any action, bonus action or reaction, except for shield-related actions listed below. Player's movement speed is also halved.
 
 When deployed, barrier also acts like impassable physical barrier from both side. On your side, barrier feels like very smooth cold glass to the touch. On other side barrier feels like very hot glass (so hot that your reflexes immediately make you let go when you touch it).
 
