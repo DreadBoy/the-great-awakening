@@ -25,14 +25,14 @@ ___
 ***Healing Spells/actions*** Any healing spells/actions that can target creatures can also target shield. When caster casts healing spell/action, user can press the button on the hammer as a reaction to absorb the spell. Healer finishes casting heal spell normally and hammer receives double of the HP that spell/action would heal as bonus HP (up to max bonus HP in the hammer).
 ___
 If Bonus HP Pool of the hammer is already full, button does nothing.
-### Energy Pool
+### Damage Counter
 
-Whenever shield receives the damage, take note of the total received damage (damage counter). This number counts as energy pool for the hammer that can be used for the actions below.
+Whenever shield receives the damage, take note of the total received damage (damage counter). This number represents energy pool of the hammer that can be used for the actions listed below.
 
-Energy counter is automatically reset to zero whenever any action that uses it is used or 1 hour after lowering the shield, whichever comes sooner.
+Damage counter is reset to zero whenever any action that uses it is used or after 1 hour of shield not being deployed.
 
 ### Actions
-***Deploy Shield.*** Pick any amount of HP up to (your HP - 1) and transfer that into the shield. Then you raise the shield in front of you.   
+***Deploy Shield.*** Pick any amount of HP (from 1 to your current HP - 1) and transfer that into the shield. Then you raise the shield in front of you.   
 ***Fire Strike.*** 10ft long wall of flame bursts out along whole width of the shield (on the "other" side). Every creature in area must make DC 14 dexterity saving throw. A creature takes *(floor(damage counter / 4))d4* fire damage on a failed save or half as much on a successful save. The fire ignites any flammable objects in the area that aren’t being worn or carried.
 ___
 ___
