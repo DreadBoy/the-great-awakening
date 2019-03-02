@@ -10,8 +10,11 @@ title: Session Notes
 (Session on radioactive island)
 
 * Images on the wall
-  * Narisana črna kača, potem puščica proti človeški glavi od spredaj, ki ima oči črno pobarvane, poleg pa je votel prerez človeške glave in na sredini glave narisane črne kače
-  * En kup črnih kač na levi strani, iz vseh njih gre puščica, ki se nato združi v eno veliko puščico. Kaže na veliko rjavo pošast (najbolj spominja na blob monster)
+  * Tri risbe
+    1. Črna kača, iz nje ven pušcica proti drugi risbi
+    2. Skica človeške glave. Oči glave so čisto črne
+    3. Prerez človeške glave. Na sredini, kjer bi morali biti možgani, je samo črna kača.
+  * En kup črnih kač narisanih, iz vseh njih gre puščica, ki se nato združi v eno veliko puščico. Ta velika puščica kaže na veliko rjavo pošast (najbolj spominja na blob monster)
   * Rjava pošast narisana, poleg je narisan sword prečrtan, puščica prečrtana, hamer prečrtan.
   * Rjava pošast narisana, poleg so narisani valovi in zraven zelena kljukica, potem pa je narisana rumena oblika (izgleda kot otok) in rdeči X zraven
   * Rjava pošast narisana, iz nje gredo lovke, vsaka lovka drži polovico ladje
