@@ -5,6 +5,13 @@ title: Session Notes
 *Note: Since sessions are in Slovenian, some notes might be in Slovenian*
 
 
+## 8. 3. 2019
+
+(Second session on radioactive island where Severiss passes away)
+
+* [Lab Notes found on the island](2019_03_08_lab_notes.html)
+* [Newspaper article about the "heroes"](2019_03_08_newspaper.html)
+
 ## 22. 2. 2019
 
 (Session on radioactive island)
