@@ -51,3 +51,24 @@ Drinking 10mL from the vial heals player for 1d4 + 1 HP. In single action you ca
 * 60ml vial - 200gp
 * 80mL vial - 300gp
 * 100mL vial - 400gp
+
+#### Poisons
+
+(Price is for single dose)
+
+1. Asassins Blood (100 gp, Ingested, DC 10 CON, 1d6)
+2. Crawler Mucus (150gp, Contact, Paralyze medium or smaller creature for one minute)
+3. Drow Poison (200gp, Ingested, DC 11 CON, 1d8)
+4. Wyvern Poison (200gp, Ingested, DC 12 CON, 1d8)
+5. Essence of Ether (Liquid Shrooms, 200gp, Contact, Works on large or smaller creatures)
+6. Oil of Taggit (250gp, Ingested, DC 13 CON, 1d12)
+7. Pale Tincture (300gp, Ingested, DC 13 CON, 2d6)
+8. Torpor (350gp, Ingested, DC 14 CON, 2d8)
+9. Black Vein (400gp, Ingested, DC 14 CON, 2d10)
+10. Mother's Worry (450gp, Ingested, DC 15 CON, 2d12)
+11. Tyrants Mercy (500gp, Ingested, DC 15 CON, 3d8)
+12. Witchbane (550gp, Ingested, DC 16 CON, 3d10)
+
+If you use Ingested potion as an injury potion (get it directly into bloodstrea through injury), it becomes more efficient - you can use one dose 5 times.
+
+King under the mountain shop also sells large quantities - you can buy cauldron of potion for 10x the price. Cauldron contains 20 doses.
