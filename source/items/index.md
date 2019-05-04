@@ -10,6 +10,7 @@ List of non-standard content in the campaign and link to their properties:
 * [The Trickster](the_trickster.html)
 * [Sand in the pocket](Sand in the pocket.png)
     * Amendment: After failing to throw the sand into creature's eyes, wind caused by creature evading your sand blows the sand back into your eyes. Make DC 9 CON check or suffer the sand's blindness yourself. 
+* [Blink Dagger](blink_dagger.html)
 
 ## Pets
 
