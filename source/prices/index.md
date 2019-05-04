@@ -69,6 +69,6 @@ Drinking 10mL from the vial heals player for 1d4 + 1 HP. In single action you ca
 11. Tyrants Mercy (500gp, Ingested, DC 15 CON, 3d8)
 12. Witchbane (550gp, Ingested, DC 16 CON, 3d10)
 
-If you use Ingested potion as an injury potion (get it directly into bloodstrea through injury), it becomes more efficient - you can use one dose 5 times.
+If you use Ingested potion as an injury potion (get it directly into bloodstream through injury), it becomes more efficient - you can use one dose 5 times.
 
-King under the mountain shop also sells large quantities - you can buy cauldron of potion for 10x the price. Cauldron contains 20 doses.
+King under the mountain shop also sells large quantities - you can buy a cauldron of potion for 10x the price. A cauldron contains 20 doses.
