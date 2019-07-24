@@ -1,15 +1,34 @@
 # Cosmic Cubes (General)
 
-- All cubes are approximately 30x30x30cm
+- All cubes are approximately 50x50x50cm
 - Too big to fit in a backpack (creature must hold it in hand or envision other method of carrying it)
 - Cold to the touch
-- **Weight** 1 kg
+- **Weight** 6 kg
 
 Weird cubes of unknown origin and weird powers. Every cube looks different and gives the holder different powers.
 
-Creature that touches the cube directly with its body is "the holder" and can perform the abilities of the cube. There can only be one holder. If second person touches the cube, he does not get the effect until first person lets go.
+Creature that holds the cube in its hand(s) directly with its skin is "the holder" and can perform the abilities of the cube. There can only be one holder. If second person grabs the cube, he does not get the effect until first person lets go.
 
 Spells cast via cube have DC 15 and +7 to hit. Their cooldowns are tied to the cube, not to the holder. Any cast spells via cube dispell themselves when caster looses contact with the cube or becomes unconscious
+
+Cubes are quite large and their weight is very weirdly balanced. That makes it very hard for a person to hold it in one hand. Creature must hold it in both hands unless it uses "Hold in One Hand" action
+
+#### Actions
+
+**Pick Up**
+
+Because cube is so cumbersome to hold, it takes a whole action to pick it off the ground
+
+#### Bonus Actions
+
+**Hold in One Hand**
+Attempt to balance the cube on one hand. Make DEX check, DC 9.
+
+On successful check, you successfully manage to balance the weight of the cube on just one hand. Until the start of your next turn, your other hand is free. 
+
+On failed check, cube falls to the ground.
+
+If you receive any damage while holding the cube in one hand, make DEX saving throw. The DC equals 8 or half the damage you take, whichever number is higher. If you fail the save, cube falls to the ground.
 
 # Cube of Light
 ___
