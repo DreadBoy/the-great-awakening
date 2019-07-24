@@ -63,9 +63,13 @@ Cube sucks light from surrounding area. Any space within 30 feet  of the cube be
 #### Actions
 
 **Maddening Darkness**
-Duration: **up to 10 minutes** 
+Duration: **up to 1 minute** 
 
-Magical darkness spreads from a center of the cube to fill a 60—foot—radius sphere until the spell ends. The darkness spreads around corners. A creature with darkvision can’t see through this darkness. Nonmagical light, as well as light created by spells of 5th level or lower, can't illuminate the area. Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom saving throw, taking 2d8 psychic damage on a failed save, or half as much damage on a successful one. Holder can see through the darkness and it's immune to its effects.
+Magical darkness spreads from a center of the cube to fill a 60—foot—radius sphere until the spell ends. The darkness spreads around corners. A creature with darkvision can’t see through this darkness. Nonmagical light, as well as light created by spells of 5th level or lower, can't illuminate the area. 
+
+At the end of each of its turns, caster can decide whether to activate or deactivate maddening effect. When active, shrieks, gibbering, and mad laughter can be heard within the sphere, originating from the cube. Whenever a creature starts its turn in the sphere, it must make a Wisdom saving throw, taking 2d8 psychic damage on a failed save, or half as much damage on a successful one. After taking the damage, if creature can hear, it knows the exact position of the cube to the point where it can attack its holder without disadvantage, until holder moves.
+
+Holder can see through the darkness and it's immune to its effects.
 
 Holder can tell any creature that sound effects are only an illusion. If creature believes the holder, it can make wisdom throws from the darkness with advantage.
 
