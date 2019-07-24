@@ -57,6 +57,8 @@ Spell can only be cast once per minute.
 # Cube of Darkness
 ___
 
+Surface of the cube is so dark that it appears like a cube-shaped hole, not a solid object.
+
 **Light Suction**
 Cube sucks light from surrounding area. Any space within 30 feet  of the cube becomes dim light (or darkness if area was already dim light before).
 
