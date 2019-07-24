@@ -7,7 +7,7 @@
 
 Weird cubes of unknown origin and weird powers. Every cube looks different and gives the holder different powers.
 
-Creature that holds the cube in its hand(s) directly with its skin is "the holder" and can perform the abilities of the cube. There can only be one holder. If second person grabs the cube, he does not get the effect until first person lets go.
+Creature that holds the cube in its bare hand(s) is "the holder" and can perform the abilities of the cube. There can only be one holder. If second person grabs the cube, he/she does not get the effect until first person lets go.
 
 Spells cast via cube have DC 15 and +7 to hit. Their cooldowns are tied to the cube, not to the holder. Any cast spells via cube dispell themselves when caster looses contact with the cube or becomes unconscious
 
@@ -47,14 +47,12 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 Total number of created lights is not limited.
 
-**Blinding Light***
+**Blinding Light**
 Cube momentarily flashes with blinding light. Any creature (except the holder) within 30ft line of sight of the cube must make constitution saving throw. On a failed save, creature becomes blinded for 1 minute. A blinded creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 If a creature knew one turn in advance that spell will be triggered, it can expend its reaction to close its eyes right before spell triggers. This allows it to make initial CON save with advantage.
 
 Spell can only be cast once per minute.
-
-
 
 # Cube of Darkness
 ___
