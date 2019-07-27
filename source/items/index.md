@@ -12,6 +12,7 @@ List of non-standard content in the campaign and link to their properties:
     * Amendment: After failing to throw the sand into creature's eyes, wind caused by creature evading your sand blows the sand back into your eyes. Make DC 9 CON check or suffer the sand's blindness yourself. 
 * [Blink Dagger](blink_dagger.html)
 * [Cosmic Cubes](cosmic_cubes.html)
+* [Grappling hand](grappling_hand.html)
 
 ## Pets
 
