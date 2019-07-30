@@ -1,0 +1,23 @@
+.world-map
+  position: fixed
+  top: 0
+  left: 0
+  width: 100vw
+  height: 100vh
+  cursor: zoom-out
+  z-index: 20
+  background: rgba(black, 0.5)
+  transform: scale(0)
+
+  .leaflet
+    position: absolute
+    top: 2vh
+    left: 2vw
+    width: 96vw
+    height: 96vh
+
+  &.opened
+    transform: scale(1)
+
+body.no-scroll
+  overflow: hidden
