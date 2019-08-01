@@ -1,41 +1,87 @@
-import {CRS, imageOverlay, LatLngBoundsLiteral, map, Map} from 'leaflet';
+import {CRS, map, Map, tileLayer} from 'leaflet';
 
 class WorldMap {
 
     private readonly popup: JQuery;
-    private readonly map: Map;
+    public readonly map: Map;
 
     constructor() {
         this.popup = $('<div class="world-map"><div class="leaflet"></div></div>');
         $(document.body).append(this.popup);
 
-        const bounds: LatLngBoundsLiteral = [[0, 0], [3508, 4961]];
-        this.map = map(this.popup.find('.leaflet').get(0), {
-            crs: CRS.Simple,
+        const layer = tileLayer('/the-great-awakening/tiles/{z}/{x}/{y}.png', {
             minZoom: -2,
             maxZoom: 2,
-            zoomControl: false,
-            maxBoundsViscosity: 1.0,
         });
-        imageOverlay('Tookania.png', bounds).addTo(this.map);
-        this.map.setMaxBounds(bounds);
-        this.map.fitBounds(bounds);
+        this.map = map(
+            this.popup.find('.leaflet').get(0),
+            {
+                crs: CRS.Simple,
+                center: [-1727, 2556],
+                zoom: -2,
+                zoomControl: false,
+                layers: [layer],
+            },
+        );
 
         $(document).on('keyup', (e) => {
-            if (e.which === 27 && this.popup.hasClass('opened'))
-                this.toggle();
+            if (e.which === 27 && this.isOpened)
+                WorldMap.toggle();
         });
+
+        $(window)
+            .on('hashchange', this.updateMapFromHash.bind(this))
+            .trigger('hashchange');
+    }
+
+    private updateMapFromHash() {
+        const shouldBeOpened = location.hash.startsWith('#world-map');
+        if (shouldBeOpened && !this.isOpened)
+            this.open();
+        else if (!shouldBeOpened && this.isOpened)
+            this.close();
+        const args = location.hash
+            .replace('#world-map', '')
+            .split('&')
+            .map(arg => {
+                    const args = arg.split('=');
+                    return {
+                        name: args[0],
+                        value: args[1],
+                    }
+                },
+            );
+        args.forEach(arg => {
+            if (arg.name === 'z')
+                this.map.setZoom(parseInt(arg.value));
+        })
 
     }
 
-    public toggle() {
-        this.popup.toggleClass('opened');
-        $(document.body).toggleClass('no-scroll');
+    private get isOpened() {
+        return this.popup.hasClass('opened');
+    }
+
+    public static toggle() {
+        if (location.hash.startsWith('#world-map'))
+            location.hash = '';
+        else
+            location.hash = '#world-map';
+    }
+
+    private open() {
+        this.popup.addClass('opened');
+        $(document.body).addClass('no-scroll');
+    }
+
+    private close() {
+        this.popup.removeClass('opened');
+        $(document.body).removeClass('no-scroll');
     }
 }
 
-const worldMap = new WorldMap();
+(window as any).worldMap = new WorldMap();
 
 $('.open-map').on('click', function () {
-    worldMap.toggle()
+    WorldMap.toggle()
 });
