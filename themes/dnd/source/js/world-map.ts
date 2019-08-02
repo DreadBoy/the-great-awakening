@@ -1,4 +1,15 @@
-import {CRS, map, Map, tileLayer} from 'leaflet';
+import {CRS, map, Map, tileLayer, LatLng as _LatLng} from 'leaflet';
+
+class LatLng extends _LatLng {
+    public static toUrl(latLng: _LatLng): string {
+        return `${Math.floor(latLng.lat)},${Math.floor(latLng.lng)}`
+    }
+
+    public static fromUrl(url: string): LatLng {
+        const [lat, lng] = url.split(',').map(n => parseInt(n));
+        return new LatLng(lat, lng);
+    }
+}
 
 class WorldMap {
 
@@ -9,18 +20,18 @@ class WorldMap {
         this.popup = $('<div class="world-map"><div class="leaflet"></div></div>');
         $(document.body).append(this.popup);
 
-        const layer = tileLayer('/the-great-awakening/tiles/{z}/{x}/{y}.png', {
+        const tiles = tileLayer('/the-great-awakening/tiles/{z}/{x}/{y}.png', {
             minZoom: -2,
             maxZoom: 2,
         });
+        const hash = this.readHash();
         this.map = map(
             this.popup.find('.leaflet').get(0),
             {
                 crs: CRS.Simple,
-                center: [-1727, 2556],
-                zoom: -2,
+                ...hash,
                 zoomControl: false,
-                layers: [layer],
+                layers: [tiles],
             },
         );
 
@@ -29,18 +40,41 @@ class WorldMap {
                 WorldMap.toggle();
         });
 
+        this.map.on('zoomend', () => {
+            this.updateHashFromMap();
+        });
+
+        this.map.on('moveend ', () => {
+            this.updateHashFromMap();
+        });
+
         $(window)
             .on('hashchange', this.updateMapFromHash.bind(this))
             .trigger('hashchange');
+        this.updateHashFromMap();
     }
 
     private updateMapFromHash() {
         const shouldBeOpened = location.hash.startsWith('#world-map');
+
         if (shouldBeOpened && !this.isOpened)
             this.open();
         else if (!shouldBeOpened && this.isOpened)
             this.close();
-        const args = location.hash
+
+        const hash = this.readHash();
+        this.map.setZoom(hash.zoom);
+        this.map.panTo(hash.center);
+
+    }
+
+    private readHash() {
+        const ret = {
+            zoom: 0,
+            center: new LatLng(-2005, 2593),
+        };
+        location.hash
+            .replace('#world-map?', '')
             .replace('#world-map', '')
             .split('&')
             .map(arg => {
@@ -50,12 +84,21 @@ class WorldMap {
                         value: args[1],
                     }
                 },
-            );
-        args.forEach(arg => {
-            if (arg.name === 'z')
-                this.map.setZoom(parseInt(arg.value));
-        })
+            )
+            .forEach(arg => {
+                if (arg.name === 'z')
+                    ret.zoom = parseInt(arg.value);
+                if (arg.name === 'p')
+                    ret.center = LatLng.fromUrl(arg.value);
+            });
+        return ret;
+    }
 
+    private updateHashFromMap() {
+        const shouldBeOpened = location.hash.startsWith('#world-map');
+        if (!shouldBeOpened)
+            return;
+        history.replaceState(null, '', `${document.location.pathname}#world-map?z=${this.map.getZoom()}&p=${LatLng.toUrl(this.map.getCenter())}`);
     }
 
     private get isOpened() {
