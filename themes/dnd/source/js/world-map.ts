@@ -1,4 +1,16 @@
-import {CRS, map, Map, tileLayer, LatLng as _LatLng} from 'leaflet';
+import {
+    control,
+    CRS,
+    icon,
+    LatLng as _LatLng,
+    LatLngTuple,
+    layerGroup,
+    LeafletMouseEvent,
+    map,
+    Map,
+    marker,
+    tileLayer,
+} from 'leaflet';
 
 class LatLng extends _LatLng {
     public static toUrl(latLng: _LatLng): string {
@@ -24,6 +36,22 @@ class WorldMap {
             minZoom: -2,
             maxZoom: 2,
         });
+        const tpCircle = (pos: LatLngTuple) =>
+            marker(pos, {
+                icon: icon({
+                    iconUrl: '/the-great-awakening/tiles/maze-cornea.png',
+                    iconSize: [28, 28],
+                }),
+            });
+        const circles = layerGroup([
+            tpCircle([-2289, 2508]),
+            tpCircle([-1498, 3479]),
+            tpCircle([-1822, 1928]),
+            tpCircle([-2065, 2248]),
+            tpCircle([-2072, 3277]),
+
+        ]);
+
         const hash = this.readHash();
         this.map = map(
             this.popup.find('.leaflet').get(0),
@@ -31,9 +59,10 @@ class WorldMap {
                 crs: CRS.Simple,
                 ...hash,
                 zoomControl: false,
-                layers: [tiles],
+                layers: [tiles, circles],
             },
         );
+        control.layers(undefined, {'TP circles': circles}).addTo(this.map);
 
         $(document).on('keyup', (e) => {
             if (e.which === 27 && this.isOpened)
@@ -46,6 +75,11 @@ class WorldMap {
 
         this.map.on('moveend ', () => {
             this.updateHashFromMap();
+        });
+
+        this.map.on('click ', e => {
+            const {lat, lng} = (e as LeafletMouseEvent).latlng;
+            console.log('You clicked the map at latitude: ' + lat + ' and longitude: ' + lng);
         });
 
         $(window)
