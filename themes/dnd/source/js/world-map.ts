@@ -39,7 +39,14 @@ class WorldMap {
         const tpCircle = (pos: LatLngTuple) =>
             marker(pos, {
                 icon: icon({
-                    iconUrl: '/the-great-awakening/tiles/maze-cornea.png',
+                    iconUrl: '/the-great-awakening/tiles/maze-cornea-blue.png',
+                    iconSize: [28, 28],
+                }),
+            });
+        const blockedTeleportationCircle = (pos: LatLngTuple) =>
+            marker(pos, {
+                icon: icon({
+                    iconUrl: '/the-great-awakening/tiles/maze-cornea-red.png',
                     iconSize: [28, 28],
                 }),
             });
@@ -49,6 +56,14 @@ class WorldMap {
             tpCircle([-1822, 1928]),
             tpCircle([-2065, 2248]),
             tpCircle([-2072, 3277]),
+            tpCircle([-2763, 2209]),
+            tpCircle([-1945, 2590]),
+            tpCircle([-1547, 2114]),
+            tpCircle([-1618, 2034]),
+            tpCircle([-1986, 2929]),
+            tpCircle([-1480, 1875]),
+            blockedTeleportationCircle([-3184, 2838]),
+            blockedTeleportationCircle([-1692, 3681]),
 
         ]);
 
