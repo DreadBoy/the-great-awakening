@@ -67,7 +67,7 @@ class WorldMap {
         const circles = layerGroup([
             tpCircle([-2289, 2508]),
             tpCircle([-1498, 3479]),
-            tpCircle([-1822, 1928]),//aa
+            tpCircle([-1822, 1928]),
             tpCircle([-2065, 2248]),
             tpCircle([-2072, 3277]),
             tpCircle([-2763, 2209]),
@@ -76,6 +76,7 @@ class WorldMap {
             tpCircle([-1618, 2034]),
             tpCircle([-1986, 2929]),
             tpCircle([-1480, 1875]),
+            tpCircle([-2403, 3069]),
             blockedTeleportationCircle([-3184, 2838]),
             blockedTeleportationCircle([-1692, 3681]),
         ]);
