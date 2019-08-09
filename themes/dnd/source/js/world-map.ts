@@ -39,17 +39,53 @@ class WorldMap {
         const tpCircle = (pos: LatLngTuple) =>
             marker(pos, {
                 icon: icon({
-                    iconUrl: '/the-great-awakening/tiles/maze-cornea.png',
+                    iconUrl: '/the-great-awakening/tiles/icons/maze-cornea-blue.png',
                     iconSize: [28, 28],
                 }),
             });
+        const blockedTeleportationCircle = (pos: LatLngTuple) =>
+            marker(pos, {
+                icon: icon({
+                    iconUrl: '/the-great-awakening/tiles/icons/maze-cornea-red.png',
+                    iconSize: [28, 28],
+                }),
+            });
+        const barrel = (pos: LatLngTuple, quantity: number, quality: number, price: number, buyer: String) => {
+            const type = quality < 10 ? 'common' : quality < 15 ? 'uncommon' : quality < 20 ? 'rare' : quality < 25 ? 'legendary': 'epic';
+
+            return marker(pos, {
+                icon: icon({
+                    iconUrl: `/the-great-awakening/tiles/icons/barrel-${type}.png`,
+                    iconSize: [32, 32]
+                })
+            }).bindPopup(`
+                        <div>${buyer}</div>
+                        <div>Quantity: ${quantity} per week</div>
+                        <div>Quality: ${quality-5} - ${quality+5}</div>
+                        <div>Price: ${price}gp</div>`)
+        };
         const circles = layerGroup([
             tpCircle([-2289, 2508]),
             tpCircle([-1498, 3479]),
             tpCircle([-1822, 1928]),
             tpCircle([-2065, 2248]),
             tpCircle([-2072, 3277]),
+            tpCircle([-2763, 2209]),
+            tpCircle([-1945, 2590]),
+            tpCircle([-1547, 2114]),
+            tpCircle([-1618, 2034]),
+            tpCircle([-1986, 2929]),
+            tpCircle([-1480, 1875]),
+            tpCircle([-2403, 3069]),
+            blockedTeleportationCircle([-3184, 2838]),
+            blockedTeleportationCircle([-1692, 3681]),
+        ]);
 
+        const barrels = layerGroup([
+            barrel([-1978, 2935], 10, 16, 7, 'Broken Candle Inn'),
+            barrel([-1800, 3006], 6, 16, 8, 'Old Crossing Inn'),
+            barrel([-2407, 3047], 2, 10, 3, 'Silverpine Express'),
+            barrel([-2407, 3079], 5, 10, 3, 'Silverpine Turbo'),
         ]);
 
         const hash = this.readHash();
@@ -62,7 +98,7 @@ class WorldMap {
                 layers: [tiles, circles],
             },
         );
-        control.layers(undefined, {'TP circles': circles}).addTo(this.map);
+        control.layers(undefined, {'TP circles': circles, 'Barrels': barrels}).addTo(this.map);
 
         $(document).on('keyup', (e) => {
             if (e.which === 27 && this.isOpened)
