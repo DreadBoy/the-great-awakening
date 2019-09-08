@@ -4,6 +4,9 @@ title: Session Notes
 
 *Note: Since sessions are in Slovenian, some notes might be in Slovenian*
 
+## 2. 8. 2019
+
+* [Wizard's map](Wizards.png)
 
 ## 8. 3. 2019
 
