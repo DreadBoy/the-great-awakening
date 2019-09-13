@@ -35,3 +35,30 @@ Sold: 139 gp
 Bought resources: 20 gp
 New balance: 477 gp
 
+
+
+
+### Template
+### XX.XX.2019
+
+We have successfully sold needed stock for our weekly contracts
+Previous balance: XXX gp
+Sold stock: 
+- XXX gallons @ Q
+- XXX gallons @ Q
+- XXX gallons @ Q
+- XXX gallons @ Q
+- XXX gallons @ Q
+
+New stock:
+- XXX gallons @ Q
+- XXX gallons @ Q
+- XXX gallons @ Q
+- XXX gallons @ Q
+- XXX gallons @ Q
+
+Sold for: XXX gp
+Bought resources: 20 gp
+Transferred to Tower of Awesome treasury: XXX gp
+New balance: XXX gp
+
