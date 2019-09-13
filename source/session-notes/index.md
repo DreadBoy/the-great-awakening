@@ -4,6 +4,21 @@ title: Session Notes
 
 *Note: Since sessions are in Slovenian, some notes might be in Slovenian*
 
+## 6. 9. 2019
+
+(Session where party retrieves the Falcon Warhammer from Iron Bank)
+
+* Cloud Harbor's main cleric claims Neuromicon is an unique book that got stolen from him yesterday.
+
+## 2. 8. 2019
+
+* [Wizard's map](Wizards.png)
+
+## 27. 7. 2019
+
+(Session where party frees clerics in Kor'a'fel's temple from mind control)
+
+* Dark spellcaster that was controlling the clerics left behind Neuromicon - black book that contains dark spells.
 
 ## 8. 3. 2019
 
