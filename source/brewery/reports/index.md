@@ -8,6 +8,7 @@ title: Divine smite brewery weekly reports
 
 We have successfully sold needed stock for our weekly contracts
 Previous balance: 229 gp
+
 Sold stock: 
 - 280 gallons @ Q8
 - 250 gallons @ Q11
@@ -29,6 +30,7 @@ New balance: 126 gp
 
 We have successfully sold needed stock for our weekly contracts
 Previous balance: 332 gp
+
 Sold stock: 
 - 280 gallons @ Q8
 - 250 gallons @ Q14
@@ -50,6 +52,7 @@ New balance: 229 gp
 
 We have successfully sold needed stock for our weekly contracts
 Previous balance: 435 gp
+
 Sold stock: 
 -  10 gallons @ Q5
 -  10 gallons @ Q6
@@ -74,6 +77,7 @@ New balance: 332 gp
 
 We have successfully sold needed stock for our weekly contracts
 Previous balance: 477 gp
+
 Sold stock: 
 - 240 gallons @ Q5
 -  40 gallons @ Q6
@@ -109,6 +113,7 @@ New balance: 477 gp
 
 We have successfully sold needed stock for our weekly contracts
 Previous balance: XXX gp
+
 Sold stock: 
 - XXX gallons @ Q
 - XXX gallons @ Q
