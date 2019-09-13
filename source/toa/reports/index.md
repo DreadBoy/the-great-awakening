@@ -4,6 +4,19 @@ title: Tower of Awesome weekly reports
 
 # Tower of Awesome weekly reports
 
+### 06.98.2019
+
+##### Finances:
+
+Balance at start of week: 0 gp
+Expenses: 222 gp
+Income: 222 gp
+Balance at end of week: 0 gp
+
+##### Notes:
+
+Nothing special happened at the tower
+
 ### 30.08.2019
 
 ##### Finances:

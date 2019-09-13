@@ -4,6 +4,27 @@ title: Divine smite brewery weekly reports
 
 # Divine smite brewery weekly reports
 
+### 06.09.2019
+
+We have successfully sold needed stock for our weekly contracts
+Previous balance: 332 gp
+Sold stock: 
+- 280 gallons @ Q8
+- 250 gallons @ Q14
+- 390 gallons @ Q18
+
+New stock:
+- 250 gallons @ Q13
+- 250 gallons @ Q18
+- 250 gallons @ Q20
+- 250 gallons @ Q11
+- 250 gallons @ Q19
+
+Sold for: 139 gp
+Bought resources: 20 gp
+Transferred to Tower of Awesome treasury: 222 gp
+New balance: 229 gp
+
 ### 30.08.2019
 
 We have successfully sold needed stock for our weekly contracts
