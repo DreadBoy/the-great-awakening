@@ -13,6 +13,7 @@ List of non-standard content in the campaign and link to their properties:
 * [Blink Dagger](blink_dagger.html)
 * [Cosmic Cubes](cosmic_cubes.html)
 * [Grappling hand](grappling_hand.html)
+* [AK-47](ak47.html)
 
 ## Pets
 
