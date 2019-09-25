@@ -4,7 +4,11 @@ title: Session Notes
 
 *Note: Since sessions are in Slovenian, some notes might be in Slovenian*
 
-## 6. 9. 2019
+## 26 - 13. 9. 2019
+
+(Session where party fights soviets)
+
+## 25 - 6. 9. 2019
 
 (Session where party retrieves the Falcon Warhammer from Iron Bank)
 
