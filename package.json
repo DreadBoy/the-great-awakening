@@ -13,6 +13,8 @@
     "install-cli": "npm install hexo-cli -g"
   },
   "dependencies": {
+    "bluebird": "^3.7.0",
+    "chalk": "^2.4.2",
     "hexo": "^3.9.0",
     "hexo-deployer-git": "^2.0.0",
     "hexo-fs": "^2.0.0",
@@ -31,11 +33,11 @@
     "jimp": "^0.8.3",
     "jquery": "^3.4.1",
     "leaflet": "^1.5.1",
+    "lodash": "^4.17.15",
+    "marked": "^0.7.0",
     "rimraf": "^3.0.0",
     "ts-loader": "^6.1.0",
-    "typescript": "^3.6.3",
-    "marked": "latest",
-    "lodash": "latest"
+    "typescript": "^3.6.3"
   },
   "devDependencies": {
     "@types/jquery": "^3.3.31",
