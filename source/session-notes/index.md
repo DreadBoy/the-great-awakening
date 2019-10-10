@@ -4,6 +4,10 @@ title: Session Notes
 
 *Note: Since sessions are in Slovenian, some notes might be in Slovenian*
 
+## 27 - 4. 10. 2019
+
+(Session where party attempts to retrieve green cube from Muertes Island)
+
 ## 26 - 13. 9. 2019
 
 (Session where party fights soviets)
