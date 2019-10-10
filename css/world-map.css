@@ -1,0 +1,26 @@
+.open-map {
+  cursor: pointer; }
+
+.world-map {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 20;
+  background: #202020;
+  transform: scale(0); }
+  .world-map .leaflet {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden; }
+  .world-map .leaflet-container {
+    background: transparent; }
+  .world-map.opened {
+    transform: scale(1); }
+
+body.no-scroll {
+  overflow: hidden; }
