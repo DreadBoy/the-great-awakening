@@ -4,6 +4,12 @@ title: Session Notes
 
 *Note: Since sessions are in Slovenian, some notes might be in Slovenian*
 
+## Session 28: 4. 10. 2019
+
+(Session where party meets St. Meles for the first time and gets hired by King)
+
+* [King's letter](kings_letter.html)
+
 ## 27 - 4. 10. 2019
 
 (Session where party attempts to retrieve green cube from Muertes Island)
